@@ -2,6 +2,7 @@
 
 header h1 {
     font-family:'DynaPuff';
+    font-size: 30px;
 }
 
 header h1 span.preto {
@@ -9,5 +10,19 @@ header h1 span.preto {
 }
 
 header h1 span.amarelo {
-    color: #FFD700;
+    color: #DAA520;
+}
+
+/*BODY */
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+/* IMAGEM */
+
+
+img {
+    width: 100px;
 }
