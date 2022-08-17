@@ -21,9 +21,20 @@ body {
     justify-content: center;
     }
 
+  
+
 
 /*IMAGENS */
 
 section div.abelha img {
-    width: 50px;
+    width: 10px;
 }
+
+section. div.abelha img {
+    background: url(../resources/image/honey-pot-35.png);
+    width: 400px;
+}
+
+
+
+
