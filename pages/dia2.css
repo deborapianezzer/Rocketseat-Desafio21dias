@@ -11,7 +11,7 @@ header h1 span.preto {
 }
 
 header h1 span.amarelo {
-    color: #FFD700;
+    color: #f8d020;
 }
 
 /*BODY */
@@ -19,9 +19,8 @@ header h1 span.amarelo {
 body {
     display: flex;
     justify-content: center;
-    }
+}
 
-  
 
 
 /*IMAGENS */
@@ -30,8 +29,7 @@ section div.abelha img {
     width: 10px;
 }
 
-section. div.abelha img {
-    background: url(../resources/image/honey-pot-35.png);
+section div.pote img {
     width: 400px;
 }
 
