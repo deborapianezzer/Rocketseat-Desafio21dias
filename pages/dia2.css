@@ -5,17 +5,23 @@ header h1 {
     font-size: 30px;
 }
 
+
 header h1 span.preto {
     color: black;
 }
 
 header h1 span.amarelo {
+<<<<<<< HEAD
     color: #DAA520;
+=======
+    color: #f8d020;
+>>>>>>> eb88c0ae1e2006fc9840f5917ffa3dbf7d058c23
 }
 
 /*BODY */
 
 body {
+<<<<<<< HEAD
   display: flex;
   justify-content: center;
 }
@@ -26,3 +32,24 @@ body {
 img {
     width: 100px;
 }
+=======
+    display: flex;
+    justify-content: center;
+}
+
+
+
+/*IMAGENS */
+
+section div.abelha img {
+    width: 10px;
+}
+
+section div.pote img {
+    width: 400px;
+}
+
+
+
+
+>>>>>>> eb88c0ae1e2006fc9840f5917ffa3dbf7d058c23
