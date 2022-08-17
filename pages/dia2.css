@@ -1,5 +1,13 @@
 /* HEADER*/
 
 header h1 {
-    font-family: 'DynaPuff', cursive;
+    font-family:'DynaPuff';
+}
+
+header h1 span.preto {
+    color: black;
+}
+
+header h1 span.amarelo {
+    color: #FFD700;
 }
