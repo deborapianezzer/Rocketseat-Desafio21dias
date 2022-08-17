@@ -17,16 +17,15 @@ header h1 span.amarelo {
 /*BODY */
 
 body {
-  display: flex;
-  justify-content: center;
+  
 }
 
 /* IMAGEM */
 
 section div.abelha img {
-    width: 20px;
+    width: 30px;
 }
 
 section div.pote img {
-    width: 400px;
+    width: 50px;
 }
