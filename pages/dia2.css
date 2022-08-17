@@ -11,3 +11,10 @@ header h1 span.preto {
 header h1 span.amarelo {
     color: #FFD700;
 }
+
+/*BODY */
+
+body {
+    justify-content: center;
+    display: flex;
+}
