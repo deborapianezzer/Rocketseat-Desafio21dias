@@ -20,3 +20,10 @@ body {
     justify-content: center;
     display: flex;
 }
+
+
+/*IMAGENS */
+
+div.abelha img {
+    width: 100px;
+}
