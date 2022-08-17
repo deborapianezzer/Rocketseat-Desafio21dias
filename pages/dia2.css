@@ -17,13 +17,13 @@ header h1 span.amarelo {
 /*BODY */
 
 body {
-    justify-content: center;
     display: flex;
-}
+    justify-content: center;
+    }
 
 
 /*IMAGENS */
 
 div.abelha img {
-    width: 100px;
+    width: 50px;
 }
