@@ -1,0 +1,29 @@
+/*BODY*/
+
+section.button {
+    margin: 0;
+    padding: 0;
+    left: 0;
+    top: 0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://images4.alphacoders.com/102/thumb-1920-1029784.jpg');
+}
+
+section.button button {
+    font-family: 'Roboto Slab', serif;
+    width: 100px;
+    height: 45px;
+    border-top-left-radius: 12%;
+    border-top-right-radius: 12%;
+    border-bottom-left-radius:12% ;
+    border-bottom-right-radius:12% ;
+    border-width: 3px;
+    border-color: rgb(66, 101, 102);
+    background-color: rgb(208, 233, 233);
+    }
