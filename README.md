@@ -7,7 +7,7 @@ codar durante pelo menos 1 hora.
 ## Desafios da Primeira Semana 🎯
 <ol>
 <li>Criar um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código.✅</li>
-<li>Fazer um Hello World customizado com fontes, cores e imagens.</li>
+<li>Fazer um Hello World customizado com fontes, cores e imagens.✅</li>
 <li>Criar um botão animado.</li>
 <li>Criar uma calculadora.</li>
 <li>Desenvolver uma página customizada que exiba o erro 404.</li>
