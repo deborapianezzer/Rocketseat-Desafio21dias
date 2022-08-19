@@ -1,4 +1,10 @@
 /*BODY*/
+body {
+    background-image: url('https://initiate.alphacoders.com/images/102/cropped-1366-768-1029784.jpg?1744');
+    background-size: cover;
+}
+
+
 
 section.button {
     margin: 0;
@@ -12,18 +18,29 @@ section.button {
     flex-flow: column nowrap;
     justify-content: center;
     align-items: center;
-    background-image: url('https://images4.alphacoders.com/102/thumb-1920-1029784.jpg');
+
+
 }
 
 section.button button {
     font-family: 'Roboto Slab', serif;
-    width: 100px;
-    height: 45px;
-    border-top-left-radius: 12%;
-    border-top-right-radius: 12%;
-    border-bottom-left-radius:12% ;
-    border-bottom-right-radius:12% ;
-    border-width: 3px;
-    border-color: rgb(66, 101, 102);
-    background-color: rgb(208, 233, 233);
-    }
+    font-size: 20px;
+    width: 170px;
+    height: 50px;
+    opacity: 70%;
+    border-style: initial;
+    border-radius: 15px;
+    transition: all 0.2s cubic-bezier(0.075, 0.82, 0.165, 1);
+
+}
+
+section.button button::after {
+    content: 'Welcome!';
+}
+
+section.button button:hover {
+    opacity: 100%;
+    box-shadow: 0 0 15px rgb(114, 112, 129);
+    cursor: pointer;
+}
+
