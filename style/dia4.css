@@ -1,0 +1,31 @@
+/*BODY*/
+
+
+
+/*SECTION*/
+
+section.calculadora {
+    background-color: rgb(44, 80, 44);
+    opacity: 80%;
+    max-width: 200px;
+    height: 300px;
+    margin-left:auto ;
+    margin-right: auto;
+    border:3px solid rgb(37, 41, 37);
+}
+
+section.calculadora h1.title{
+    text-align: center;
+    border-bottom: 3px solid rgb(37, 41, 37) ;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+section.calculadora button {
+    width: 45px;
+    height: 50px;
+}
+
+
+
+
