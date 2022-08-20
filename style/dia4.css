@@ -1,5 +1,8 @@
 /*BODY*/
-
+body {
+    font-family:'Changa', sans-serif;
+    color: rgb(172, 88, 4) ;
+}
 
 
 /*SECTION*/
@@ -9,27 +12,38 @@ section.calculadora {
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
-    width: 200px;
-    height: 370px;
-    background-color: rgb(44, 80, 44);
+    width: 220px;
+    height: 410px;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgba(219, 155, 36, 0.9);
     opacity: 80%;
     border-radius:15px ;
 }
+section.calculadora table {
+    margin-right: 0%;
+    padding-right: 0%;
+    border: 0;
 
+}
 section.calculadora h1.title{
     text-align: center;
-    border-bottom:3px solid rgb(37, 41, 37);
+    border-bottom:2px solid rgb(172, 88, 4);
 }
 
 section.calculadora p {
     text-align: center;
-    border-bottom:3px solid rgb(37, 41, 37);
+    border-bottom:2px solid rgb(172, 88, 4);
+    
 }
 
-section.calculadora button {
+section.calculadora button.botão-normal {
     cursor: pointer;
     width: 50px;
     height: 50px;
+    border: 1px;
+    border-radius: 15px;
+    border-color:rgb(172, 88, 4) ;
 }
 
 button:hover{
@@ -38,10 +52,24 @@ button:hover{
 }
 
 button.botão-zero {
-    width: 100px;
+    cursor: pointer;
+    width: 104px;
+    height: 50px;
+    border: 1px;
+    border-radius: 15px;
+    border-color:rgb(172, 88, 4) 
 }
 
-button
+button.botão-igual {
+    cursor: pointer;
+    width: 50px;
+    height: 104px;
+    border: 1px;
+    border-radius: 15px;
+    border-color:rgb(172, 88, 4) 
+}
+
+
 
 
 
