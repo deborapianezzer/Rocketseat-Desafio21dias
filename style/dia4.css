@@ -32,7 +32,11 @@ section.calculadora h1.title{
 }
 
 section.calculadora p {
+    margin-left: 10px;
     text-align: center;
+    background-color: white;
+    height: 35px;
+    width: 200px;
     border-bottom:2px solid rgb(172, 88, 4);
     
 }
