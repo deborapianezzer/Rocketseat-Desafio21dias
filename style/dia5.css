@@ -1,0 +1,46 @@
+/*BODY*/
+
+body {
+    background-color: rgb(211, 226, 225);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*HEADER*/
+
+header h1{
+    font-family:  'Oswald', sans-serif;
+    font-size: 150px;
+    margin: 0%;
+}
+
+header h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    margin: 0%;
+}
+
+header p {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+}
+
+header button {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    border-style: initial;
+    cursor: pointer;
+    }
+header button:hover {
+    opacity: 100%;
+    background-color: white;
+}
+
+
+
+/*SECTION IMAGE*/
+
