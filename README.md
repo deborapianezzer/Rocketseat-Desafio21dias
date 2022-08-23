@@ -10,7 +10,7 @@ codar durante pelo menos 1 hora.
 <li>Fazer um Hello World customizado com fontes, cores e imagens.✅</li>
 <li>Criar um botão animado.✅</li>
 <li>Criar uma calculadora.✅</li>
-<li>Desenvolver uma página customizada que exiba o erro 404.</li>
+<li>Desenvolver uma página customizada que exiba o erro 404.✅</li>
 <li>Criar um card com efeito glassmorphism.</li>
 <li>Desenvolver um contador.</li>
 
