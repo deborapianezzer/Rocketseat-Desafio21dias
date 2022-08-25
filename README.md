@@ -13,6 +13,20 @@ codar durante pelo menos 1 hora.
 <li>Desenvolver uma página customizada que exiba o erro 404.✅</li>
 <li>Criar um card com efeito glassmorphism.✅</li>
 <li>Desenvolver um contador.</li>
+</ol>
+
+## Desafios da Segunda Semana
+
+<ol>
+<liDesenvolver um toggle que altere o tema para claro e escuro.</li>
+<li>Criar uma animação de loading</li>
+<li>Utilizar a lib Particle.js do JavaScript.</li>
+<li>Criar o layout de um formulário de login.</li>
+<li>Desenvolver uma galeria de imagens.</li>
+<li>Desenvolver um menu responsivo.</li>
+<li>Criar um formulário de quizzes.</li>
+</ol>
+
 
 
 
