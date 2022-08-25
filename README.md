@@ -15,7 +15,7 @@ codar durante pelo menos 1 hora.
 <li>Desenvolver um contador.</li>
 </ol>
 
-## Desafios da Segunda Semana
+## Desafios da Segunda Semana 🎯
 
 <ol>
 <liDesenvolver um toggle que altere o tema para claro e escuro.</li>
