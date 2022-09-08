@@ -4,7 +4,9 @@ Este projeto é referente ao desafio de 21 dias da Rocketseat.<br>
 Este desafio consiste em realizar um projeto por dia (projeto estipulado pela Rocketseat), e<br>
 codar durante pelo menos 1 hora.
 
-## Desafios da Primeira Semana 🎯
+Observação: Este projeto eu dei eu estou realizando ele conforme o meu aprendizado está evoluindo. Estou realizando ele no meu tempo, porém buscando estudar todos os dias. 
+
+## Desafios da Primeira Parte 🎯
 <ol>
 <li>Criar um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código.✅</li>
 <li>Fazer um Hello World customizado com fontes, cores e imagens.✅</li>
@@ -15,7 +17,7 @@ codar durante pelo menos 1 hora.
 <li>Desenvolver um contador.</li>
 </ol>
 
-## Desafios da Segunda Semana 🎯
+## Desafios da Segunda Parte 🎯
 
 <ol>
 <liDesenvolver um toggle que altere o tema para claro e escuro.</li>
@@ -27,7 +29,7 @@ codar durante pelo menos 1 hora.
 <li>Criar um formulário de quizzes.</li>
 </ol>
 
-## Desafios da Terceira Semana 🎯
+## Desafios da Terceira Parte 🎯
 
 <ol>
 <liDesenvolver um site que exiba uma vitrini de produtos de um e-commerce fictício(com nome dos produtos, preços e imagens).</li>
