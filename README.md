@@ -27,6 +27,17 @@ codar durante pelo menos 1 hora.
 <li>Criar um formulário de quizzes.</li>
 </ol>
 
+## Desafios da Terceira Semana 🎯
+
+<ol>
+<liDesenvolver um site que exiba uma vitrini de produtos de um e-commerce fictício(com nome dos produtos, preços e imagens).</li>
+<li>Desenvolver um site utilizando alguma API pública.</li>
+<li>Desenvolver um site que capture os eventos de teclado e exiba na tela o evento e a tecla pressionada.</li>
+<li>Desenvolver um gerador de senhas aleatórios.</li>
+<li>Desenvolver um site que gere imagens aleatórias utilizando a API do Unsplash.</li>
+<li>Desenvolver um site de emoji picker.Ao selecionar o emoji, é copiado para a área de transferência.</li>
+<li>Desenvolver uma página para seu portifólio.</li>
+</ol>
 
 
 
